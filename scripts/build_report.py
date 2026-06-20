@@ -338,7 +338,7 @@ def cover_page():
           Spacer(1, 0.35 * inch),
           P("Submitted by", "CoverText"),
           P("Ganesh L", "CoverBold"),
-          P("Enrolment No: [Enrolment Number]", "CoverText"),
+          P("Enrolment No: O24MSD110165", "CoverText"),
           Spacer(1, 0.3 * inch),
           P("Under the guidance of", "CoverText"),
           P("Mr. Prashant Stephens (Mentor)", "CoverBold"),
@@ -366,7 +366,7 @@ def certificate_page():
         "This is to certify that the project report titled "
         "**MindMate, An AI-Powered Mental Health Assistant for "
         "Students** is a bona fide record of the project work carried "
-        "out by **Ganesh L** (Enrolment No: [Enrolment Number]) in "
+        "out by **Ganesh L** (Enrolment No: O24MSD110165) in "
         "partial fulfilment of the requirements for the award of the degree "
         "of Master of Science (Data Science).",
         "The work was carried out under my supervision during the academic "
@@ -405,7 +405,7 @@ def declaration_page():
         "Place: ____________________        Date: ____________________",
         "",
         "Student Signature: ____________________",
-        "Student Name: Ganesh L        Enrolment No: [Enrolment Number]",
+        "Student Name: Ganesh L        Enrolment No: O24MSD110165",
     ]
     return simple_section("Declaration", paras)
 

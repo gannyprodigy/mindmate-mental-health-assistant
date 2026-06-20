@@ -58,7 +58,7 @@ def title_slide():
     c.setFillColor(white)
     lines = [
         ("Helvetica-Bold", 16, "M.Sc. (Data Science), Final Project Report"),
-        ("Helvetica", 13, "Submitted by: Ganesh L   |   Enrolment No: [Enrolment Number]"),
+        ("Helvetica", 13, "Submitted by: Ganesh L   |   Enrolment No: O24MSD110165"),
         ("Helvetica", 13, "Guide: Mr. Prashant Stephens   |   In association with Plag Pro, Noida"),
         ("Helvetica", 13, "Chandigarh University · 2026"),
     ]

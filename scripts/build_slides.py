@@ -83,7 +83,7 @@ def title_slide():
     tf = meta.text_frame
     lines = [
         ("M.Sc. (Data Science), Final Project Report", 18, WHITE, True),
-        ("Submitted by: Ganesh L   |   Enrolment No: [Enrolment Number]", 15, LIGHT, False),
+        ("Submitted by: Ganesh L   |   Enrolment No: O24MSD110165", 15, LIGHT, False),
         ("Guide: Mr. Prashant Stephens   |   In association with Plag Pro, Noida", 15, LIGHT, False),
         ("Chandigarh University · 2026", 15, LIGHT, False),
     ]
