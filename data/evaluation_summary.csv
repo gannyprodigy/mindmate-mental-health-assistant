@@ -1,0 +1,5 @@
+metric,treatment_pre,treatment_post,control_pre,control_post,treatment_change,control_change,t_stat,p_value,cohens_d,direction
+phq9,13.35,9.45,13.85,12.99,-3.9,-0.87,-12.581,0.0,-1.624,improvement
+gad7,9.93,6.54,10.4,9.49,-3.39,-0.9,-11.413,0.0,-1.473,improvement
+wellbeing,46.54,57.9,44.96,47.48,11.35,2.52,14.312,0.0,1.848,improvement
+focus_hours,14.3,18.56,13.93,14.62,4.26,0.69,11.151,0.0,1.44,improvement
